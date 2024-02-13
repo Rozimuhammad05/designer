@@ -1,0 +1,40 @@
+* {
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration-line: none;
+  }
+  
+  img {
+    display: block;
+  }
+  
+  body {
+    margin: 0;
+  }
+  
+  .container {
+    max-width: 1440px;
+    padding: 0 20px;
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  .header-inner {
+    display: flex;
+width: 1440px;
+padding: 15px 100px;
+flex-direction: column;
+align-items: flex-start;
+gap: 10px;
+  }
+
+  .items {
+    display: inline-block;
+  }
+  ul {
+    display: flex;
+align-items: center;
+gap: 817px;
+  }
